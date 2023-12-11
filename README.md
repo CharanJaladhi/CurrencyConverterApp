@@ -1,2 +1,2 @@
 # CurrencyConverterApp
-Currency Converter App (TechnoHacks)
+Crafted by using Java in Android Studio
