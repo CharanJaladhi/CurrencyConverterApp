@@ -1,2 +1,2 @@
 # CurrencyConverterApp
-Crafted by using Java in Android Studio
+Crafted using Java in Android Studio
